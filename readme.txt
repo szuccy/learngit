@@ -5,3 +5,6 @@ git tracks changes of files.
 Creating a new branch is quick.
 
 I add this in second commit.
+
+
+add all 3
