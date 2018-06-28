@@ -10,4 +10,4 @@ I add this in second commit.
 add all 3
 
 
-ÇÐ»»
+ÇÐ»» and fen
