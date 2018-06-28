@@ -7,7 +7,4 @@ Creating a new branch is quick.
 I add this in second commit.
 
 
-add all 3
-
-
-ÇÐ»» and zhu
+add all 3 and fen zhu
