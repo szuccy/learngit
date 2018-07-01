@@ -10,3 +10,6 @@ I add this in second commit.
 add all 3 and fen zhu
 
 °¥°¥°¥
+
+szuccy
+ccyNUmber
